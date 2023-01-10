@@ -5,7 +5,7 @@ ML Classification Algorithms for Investigation in Chronic Diseases (Diabetes, Ki
 The community data source for the Behavioral Risk Factor Surveillance System (BRFSS), a yearly survey conducted by the Centers for Disease Control and Prevention (CDC) using telephone interviews, was used as the dataset for this study. For more than 30 years, BRFSS has been regarded as one of the most reliable sources of self-selected health data surveys. The major objective of BRFSS is to gather standard state-specific information on risk behaviors, chronic diseases and conditions, access to healthcare, and usage of preventive health services in relation to the country's leading deaths and disablers. Every year in the United States, all 50 states, including the District of Columbia, Guam, and Puerto Rico, have data collected through phone surveys.
 
 The investigation included the material source of the 2020 BRFSS, the most recent data at the time. The original dataset overall concluded 279 variables with a number of 401,958 records. In BRFSS, there is a data survey every year that completes more than 400,000 adult interviews. The data collection will end in December of each year. In the COVID era, the content of BRFSS 2020 serves as the source, as COVID-19 started at the beginning of 2020 and the virus's exploitation globally reached the US in March.
-
+ 
 https://www.cdc.gov/brfss/annual_data/annual_2020.html
 
 ## Abstract
